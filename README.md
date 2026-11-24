@@ -1,4 +1,4 @@
-# ideff_solution
+# ldeff_solution
 
 My solutions to https://ldeff.vutrinh.net/practice
 
