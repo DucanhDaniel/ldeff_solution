@@ -5,9 +5,9 @@ My solutions to https://ldeff.vutrinh.net/practice
 <!-- progress:start -->
 ## Progress
 
-### SQL — 8/160
+### SQL — 10/160
 
-- easy: 8/48
+- easy: 10/48
 - medium: 0/72
 - hard: 0/40
 
@@ -21,6 +21,8 @@ My solutions to https://ldeff.vutrinh.net/practice
 | 6 | [Work Pattern Labels](https://ldeff.vutrinh.net/practice/sql/sql_work_pattern_labels) · [code](sql/6_sql_work_pattern_labels.sql) | easy | 2 | 2026-11-24 |
 | 7 | [Agent Satisfaction Scores](https://ldeff.vutrinh.net/practice/sql/sql_avg_rating_unrated) · [code](sql/7_sql_avg_rating_unrated.sql) | easy | 2 | 2026-11-24 |
 | 8 | [Merchant Payment Status Counts](https://ldeff.vutrinh.net/practice/sql/sql_payment_status_counts) · [code](sql/8_sql_payment_status_counts.sql) | easy | 2 | 2026-11-24 |
+| 9 | [Warehouses Running Late](https://ldeff.vutrinh.net/practice/sql/sql_late_shipments_having) · [code](sql/9_sql_late_shipments_having.sql) | easy | 2 | 2026-11-24 |
+| 10 | [Active User Days](https://ldeff.vutrinh.net/practice/sql/sql_active_user_days) · [code](sql/10_sql_active_user_days.sql) | easy | 2 | 2026-11-24 |
 
 ### DATAFRAME — 0/160
 
