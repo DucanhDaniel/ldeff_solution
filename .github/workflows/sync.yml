@@ -2,7 +2,7 @@ name: Sync ldeff solutions
 
 on:
   schedule:
-    - cron: "17 */3 * * *" # every 3 hours
+    - cron: "17 20 * * *" # daily at 20:17 UTC (03:17 Vietnam time)
   workflow_dispatch:
 
 permissions:
