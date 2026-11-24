@@ -1,4 +1,3 @@
-
 -- Write one SELECT (or WITH) query.
 with
   temp1 AS (
