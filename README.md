@@ -5,9 +5,9 @@ My solutions to https://ldeff.vutrinh.net/practice
 <!-- progress:start -->
 ## Progress
 
-### SQL — 10/160
+### SQL — 13/160
 
-- easy: 10/48
+- easy: 13/48
 - medium: 0/72
 - hard: 0/40
 
@@ -23,6 +23,9 @@ My solutions to https://ldeff.vutrinh.net/practice
 | 8 | [Merchant Payment Status Counts](https://ldeff.vutrinh.net/practice/sql/sql_payment_status_counts) · [code](sql/8_sql_payment_status_counts.sql) | easy | 2 | 2026-11-24 |
 | 9 | [Warehouses Running Late](https://ldeff.vutrinh.net/practice/sql/sql_late_shipments_having) · [code](sql/9_sql_late_shipments_having.sql) | easy | 2 | 2026-11-24 |
 | 10 | [Active User Days](https://ldeff.vutrinh.net/practice/sql/sql_active_user_days) · [code](sql/10_sql_active_user_days.sql) | easy | 2 | 2026-11-24 |
+| 11 | [Products With Top Reviews](https://ldeff.vutrinh.net/practice/sql/sql_five_star_products_once) · [code](sql/11_sql_five_star_products_once.sql) | easy | 2 | 2026-11-24 |
+| 12 | [Received Shipments Per Warehouse](https://ldeff.vutrinh.net/practice/sql/sql_warehouse_received_shipments) · [code](sql/12_sql_warehouse_received_shipments.sql) | easy | 2 | 2026-11-25 |
+| 13 | [Devices Sharing A Gateway](https://ldeff.vutrinh.net/practice/sql/sql_gateway_device_pairs) · [code](sql/13_sql_gateway_device_pairs.sql) | easy | 2 | 2026-11-25 |
 
 ### DATAFRAME — 0/160
 
