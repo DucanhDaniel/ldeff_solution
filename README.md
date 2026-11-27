@@ -5,9 +5,9 @@ My solutions to https://ldeff.vutrinh.net/practice
 <!-- progress:start -->
 ## Progress
 
-### SQL — 13/160
+### SQL — 18/160
 
-- easy: 13/48
+- easy: 18/48
 - medium: 0/72
 - hard: 0/40
 
@@ -26,6 +26,11 @@ My solutions to https://ldeff.vutrinh.net/practice
 | 11 | [Products With Top Reviews](https://ldeff.vutrinh.net/practice/sql/sql_five_star_products_once) · [code](sql/11_sql_five_star_products_once.sql) | easy | 2 | 2026-11-24 |
 | 12 | [Received Shipments Per Warehouse](https://ldeff.vutrinh.net/practice/sql/sql_warehouse_received_shipments) · [code](sql/12_sql_warehouse_received_shipments.sql) | easy | 2 | 2026-11-25 |
 | 13 | [Devices Sharing A Gateway](https://ldeff.vutrinh.net/practice/sql/sql_gateway_device_pairs) · [code](sql/13_sql_gateway_device_pairs.sql) | easy | 2 | 2026-11-25 |
+| 14 | [Merged Ticket Parents](https://ldeff.vutrinh.net/practice/sql/sql_merged_ticket_parent) · [code](sql/14_sql_merged_ticket_parent.sql) | easy | 2 | 2026-11-27 |
+| 15 | [Payments with Merchant Names](https://ldeff.vutrinh.net/practice/sql/sql_merchant_code_padded_join) · [code](sql/15_sql_merchant_code_padded_join.sql) | easy | 2 | 2026-11-27 |
+| 16 | [API Calls By Current Plan](https://ldeff.vutrinh.net/practice/sql/sql_usage_current_plan) · [code](sql/16_sql_usage_current_plan.sql) | easy | 2 | 2026-11-27 |
+| 17 | [Delivery Fee Bands](https://ldeff.vutrinh.net/practice/sql/sql_delivery_fee_band) · [code](sql/17_sql_delivery_fee_band.sql) | easy | 2 | 2026-11-27 |
+| 18 | [Conversion Rank Per Category](https://ldeff.vutrinh.net/practice/sql/sql_category_conversion_rank) · [code](sql/18_sql_category_conversion_rank.sql) | easy | 2 | 2026-11-27 |
 
 ### DATAFRAME — 0/160
 
